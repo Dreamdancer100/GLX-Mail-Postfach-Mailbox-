@@ -19,7 +19,7 @@
 
 ## ⬇️ Get your GLX Mail mailbox
 
-👉 **[GLX Tools Mailbox Registration](https://mail-app.glx-tools.de/registrieren.html)** — product information, 14-day trial and annual license.
+👉 **[GLX Tools Mailbox Registration](https://mail-app.glx-tools.de/registrieren.html)** — get now your Account - 14-day trial and annual license.
 
 👉 **[GLX Tools Shop – product overview](https://glx-tools.de/shopuebersicht/)** — product information, 14-day trial and annual license.
 
