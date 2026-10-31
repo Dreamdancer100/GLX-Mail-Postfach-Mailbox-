@@ -20,6 +20,7 @@
 ## ⬇️ GLX Mail Postfach beziehen
 
 👉 **[GLX Tools – Postfach Registrieren](https://mail-app.glx-tools.de/registrieren.html)** — Hol dir jetzt dein Konto, 14-tägige Testphase und Jahreslizenz.
+
 👉 **[GLX Tools – Shopübersicht](https://glx-tools.de/shopuebersicht/)** — Produktinformationen, 14-tägige Testphase und Jahreslizenz.
 
 GLX Mail Postfach ist die gehostete Lösung für alle, die die GLX-Mail-Webanwendung nutzen möchten, aber keinen eigenen Linux-Server besitzen oder betreiben wollen.
