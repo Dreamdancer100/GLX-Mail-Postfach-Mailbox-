@@ -19,7 +19,7 @@
 
 ## ⬇️ GLX Mail Postfach beziehen
 
-👉 **[GLX Tools – Postfach Registrieren](https://mail-app.glx-tools.de/registrieren.html)** — Hol dir jetzt dein Konto, 14-tägige Testphase und Jahreslizenz.
+👉 **[GLX Tools – Postfach Registrieren](https://mail-app.glx-tools.de/registrieren.html)** — Hol dir jetzt dein Konto, wenn es dir gefällt, erwerbe eine Lizenz.
 
 👉 **[GLX Tools – Shopübersicht](https://glx-tools.de/shopuebersicht/)** — Produktinformationen, 14-tägige Testphase und Jahreslizenz.
 
