@@ -19,6 +19,8 @@
 
 ## ⬇️ Get your GLX Mail mailbox
 
+👉 **[GLX Tools Mailbox Registration](https://mail-app.glx-tools.de/registrieren.html)** — product information, 14-day trial and annual license.
+
 👉 **[GLX Tools Shop – product overview](https://glx-tools.de/shopuebersicht/)** — product information, 14-day trial and annual license.
 
 GLX Mail Postfach is the hosted option for users who want the GLX Mail web application but do not have or want to operate their own Linux server.
