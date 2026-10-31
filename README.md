@@ -83,9 +83,6 @@ For support: **info@glx-tools.de**
 
 ## 📄 License
 
-GLX Mail Postfach is a hosted commercial service from GLX Tools. The applicable usage rights are defined by the license purchased through the GLX Tools shop. This repository provides product documentation and screenshots.
-## 📄 License
-
 Copyright © 2026 GLX Tools – Gordon Lehmann.
 All rights reserved.
 
@@ -98,6 +95,8 @@ applicable license purchased through GLX Tools.
 This repository contains product documentation
 and screenshots. All rights to these materials
 are reserved by their respective copyright holders.
+
+GLX Mail Postfach is a hosted commercial service from GLX Tools. The applicable usage rights are defined by the license purchased through the GLX Tools shop. This repository provides product documentation and screenshots.
 
 ---
 
