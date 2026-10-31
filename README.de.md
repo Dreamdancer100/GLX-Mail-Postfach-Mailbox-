@@ -32,13 +32,13 @@ GLX Mail Postfach ist die gehostete Lösung für alle, die die GLX-Mail-Webanwen
 ### 1️⃣ Mail-Ansicht
 
 <p align="center">
-  <img src="./screenshots/server-mail.png" alt="GLX Mail Postfach – Mail-Ansicht" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Postfach-Mailbox-/blob/main/server-mail.png" alt="GLX Mail Postfach – Mail-Ansicht" width="850">
 </p>
 
 ### 2️⃣ Kalender-Ansicht
 
 <p align="center">
-  <img src="./screenshots/server-calendar.png" alt="GLX Mail Postfach – Kalender-Ansicht" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Postfach-Mailbox-/blob/main/server-calendar.png" alt="GLX Mail Postfach – Kalender-Ansicht" width="850">
 </p>
 
 ---
